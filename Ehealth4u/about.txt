@@ -1,0 +1,8 @@
+Ehealth4u website that allow patient register, provide their medical details and manages this details.
+This app allow the following functions: 
+1. Sign up page for users
+2. A page where users can fill in their medical information with relevant questions depending on the developer's discretion.
+3. A table that displays all users and their relevant medical records.
+4. A covid specified page that shows safety measures.
+
+The web app is designed in Django version 1.9.1, Bootstrap, Javascript.
